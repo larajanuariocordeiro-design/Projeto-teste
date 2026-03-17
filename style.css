@@ -16,11 +16,11 @@ color: black;
 font-size: 30px;
 }
 input{
-width: 100px;
-height: 10px;
+width: 400px;
+height: 100px;
 }
 button{
 background-color: burlywood;
-width: 50px;
+width: 150px;
 border-radius: 30px;
 }
