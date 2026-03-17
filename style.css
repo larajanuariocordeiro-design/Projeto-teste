@@ -12,11 +12,15 @@ padding: 20px;
 display: flex;
 }
 h1{
-
+color: black;
+font-size: 30px;
 }
 input{
-
+width: 100px;
+height: 10px;
 }
 button{
-
+background-color: burlywood;
+width: 50px;
+border-radius: 30px;
 }
