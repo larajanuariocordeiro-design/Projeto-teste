@@ -40,3 +40,10 @@ width: 400px;
 img{
 width: 400px;
 }
+section button{
+    background-color: darkblue;
+    color: blue;
+    height: 100px;
+    width: 150px;
+    font-size: 30;
+}
