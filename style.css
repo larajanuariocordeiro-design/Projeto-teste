@@ -33,6 +33,9 @@ section{
 display: flex;
 align-items: center;
 justify-content: space-around;
+color: darkgreen;
+margin: 20px;
+padding: 30px;
 }
 p{
 width: 400px;
@@ -41,7 +44,7 @@ img{
 width: 400px;
 }
 section button{
-    background-color: darkblue;
+    background-color: darkred;
     color: black;
     height: 100px;
     width: 150px;
