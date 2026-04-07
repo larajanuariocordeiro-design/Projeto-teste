@@ -26,7 +26,7 @@ border-radius: 30px;
 }
 main{
 padding: 20px;
-background-color: blueviolet;
+background-color:darkgray;
 border-radius: 10px;
 }
 section{
@@ -44,7 +44,7 @@ img{
 width: 400px;
 }
 section button{
-    background-color: darkred;
+    background-color:lightblue;
     color: black;
     height: 100px;
     width: 150px;
