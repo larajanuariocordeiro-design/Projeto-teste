@@ -50,3 +50,12 @@ section button{
     width: 150px;
     font-size: 30;
 }
+footer{
+height: 100px;
+align-items: center;
+justify-content: center;
+background-color: darkblue;
+}
+h2{
+color: aliceblue;
+font-size: 30px;}
